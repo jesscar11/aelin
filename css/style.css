@@ -1,3 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Eagle+Lake&display=swap');
+
+
 body{
     background-color:goldenrod;
+}
+html, body{
+    margin: 0;
+    padding: 0;
+}
+header{
+    text-align: center;
+    background-color: rgba(255, 236, 187, 0.983);
+    padding: 20px;
+}
+header img{
+        width: 300px;
+    height: 300px;
+    border: 20px solid rgb(128, 106, 71);
+    border-radius: 50%;
+}
+header h1{
+    font-family: "Eagle Lake", serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 40px;
+  margin: 10px 0 20px 0;
+  color: rgb(128, 106, 71);
 }
